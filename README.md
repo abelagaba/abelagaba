@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @abelagaba. Pretty much still a novice Haha. My fields of interest are embedded systems, web, mobile development and windows.
+- 👋 Hi, I’m @abelagaba. Pretty much still a novice Haha. 
+- My interest is majorly in system software and embedded systems.
