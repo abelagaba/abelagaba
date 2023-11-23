@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @abelagaba. Pretty much still a novice Haha. 
-- My interest is majorly in system software and embedded systems.
+- 👋 Hi, I’m @abelagaba. On my programming journey. 
+- My interests majorly lie in Android development, system software and embedded systems. 
